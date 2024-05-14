@@ -3,7 +3,9 @@
 ### Day 0: 14 May 2024
 ##### And so it begins.
 I'm currently working through the FreeCodeCamps responsive web design course. I'm currently on the CSS portion, and even with prior knowledge i'm picking up new things that seem to have changed or wasn't taught when i did web design in the 2000's. I'm not sure what exactly i'm going to do this 100 day challenge on, and it feels like i need to be prepared before starting, but for now - i'm just planting my feet and beginning. I need to learn how to use GitHub too. 
-###21:50### - Today i have finished the Learn CSS by building a basic cafe menu. I do have the urge to start remaking my old site and working on it with current CSS, i'm just not sure where to host it or go about it yet. I'll figure it out.
+
+21:50 -  Today i have finished the Learn CSS by building a basic cafe menu. I do have the urge to start remaking my old site and working on it with current CSS, i'm just not sure where to host it or go about it yet. I'll figure it out.
+
 <!--- 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
